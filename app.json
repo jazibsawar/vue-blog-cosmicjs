@@ -1,4 +1,5 @@
 {
   "name": "Vue Blog",
-  "logo": "https://cosmicjs.com/images/logo.svg"
+  "logo": "https://cosmicjs.com/images/logo.svg",
+  "description": "Vue blog example using Cosmic JS."
 }
