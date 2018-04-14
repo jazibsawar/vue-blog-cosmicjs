@@ -1,6 +1,6 @@
 {
   "name": "Vue Blog",
-  "description": "A barebones Node.js app using Express 4",
+  "description": "A barebones Vue Blog using Cosmic JS",
   "repository": "https://github.com/cosmicjs/vue-blog-cosmicjs",
   "logo": "https://cosmicjs.com/images/logo.svg",
   "keywords": ["vue", "express", "blog"]
